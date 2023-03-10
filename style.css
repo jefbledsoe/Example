@@ -10,4 +10,20 @@ h3{
     color:green;
     text-shadow: 2px 2px black;
 }
+p.option{
+    margin:auto;
+    width :90%;
+}
+p.note{
+    margin:auto;
+    width :90%;
+}
+p.subnote{
+    margin:auto;
+    width :80%;
+}
+p.subsubnote{
+    margin:auto;
+    width :70%;
+}
 
